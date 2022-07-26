@@ -1,0 +1,39 @@
+/*.................. carousel and information section background color is here ................*/
+
+.background-bg-info{
+    background-color: #fceae8;
+}
+
+/* ........categories background color watch is here ........*/
+
+.background-bg-success{
+    background-color:#e69c12;
+    height: 170px;
+    width: 310px;
+}
+
+/*......... categories background color shoes is here......... */
+
+.background-bg-danger{
+   background-color:  orchid;
+   height: 170px;
+    width: 310px;
+}
+
+
+
+/* ......categories background color bag is here....... */
+
+.background-bg-primary{
+    background-color:blue ;
+    height: 170px;
+    width: 310px;
+}
+
+
+
+/* ...........button color is here................ */
+.background-button-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 8px 10px;
+}
